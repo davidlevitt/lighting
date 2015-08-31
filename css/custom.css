@@ -1,0 +1,47 @@
+.jumbotron {
+    padding-left: 5%;
+    padding-right: 5%;
+    color: #E6E6E6;
+    background-color: 000;
+    margin-bottom: 0;
+    padding-bottom: 3%;
+}
+
+.navbar {
+    padding-left: 5%;
+    padding-right: 5%;
+    background-color: #00003D;
+    border: none;
+}
+
+.navbar-default .navbar-nav>li>a {
+    color: eee;
+}
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    background-image: no-repeat;
+    background: url("img/bkg1.JPG") no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.copyright {
+    font-family: 'Rock Salt', cursive;
+    color: #e6e6e6;
+}
+
+.sidebar {
+    border: 2px solid #009999;
+    border-radius: 0px 25px 25px 25px;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-bottom: 5%;
+    opacity: 0.8;
+    color: black;
+    background-color: #e6e6e6;
+    margin-top: 0;
+    width: 30%;
+}
