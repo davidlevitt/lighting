@@ -2,7 +2,7 @@
     padding-left: 5%;
     padding-right: 5%;
     color: #E6E6E6;
-    background-color: 000;
+    background-color: #000;
     margin-bottom: 0;
     padding-bottom: 3%;
 }
@@ -26,6 +26,7 @@ body {
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
+    color: #fff;
 }
 
 .copyright {
@@ -44,4 +45,8 @@ body {
     background-color: #e6e6e6;
     margin-top: 0;
     width: 30%;
+}
+
+h1 {
+    font-size: 36pt;
 }
